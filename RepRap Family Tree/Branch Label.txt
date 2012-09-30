@@ -1,0 +1,7 @@
+Z-XY	Z-head XY-bed	#ff0000
+X-YZ	X-head YZ-bed	#ff0000
+XZ-Y	XZ-head Y-bed	#ff0000
+XY-Z	XY-head Z-bed	#ff0000
+XYZ-head	XYZ-head	#ff0000
+XYZ-bed	XYZ-bed	#ff0000
+non-cartesian	non-cartesian #ff0000

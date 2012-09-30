@@ -1,0 +1,1 @@
+(Deltabot:1,(Solar Sinter:1,(Qu-Bd:1,(Darwin:1,(Mendel:1,Prusa:1(Up!:1,Orca:1,Mosaic:1,(McWire:1,Makerbot:1,PopFab:1)Z-XY:30[10])X-YZ:30[10])XZ-Y:30[10])XY-Z:30[10])XYZ-head:30[10])XYZ-bed:30[10])Angular:10[10]);

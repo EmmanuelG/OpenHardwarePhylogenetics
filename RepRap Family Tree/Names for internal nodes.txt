@@ -1,0 +1,7 @@
+Z-XY	Z-head XY-bed
+X-YZ	X-head YZ-bed
+XZ-Y	XZ-head Y-bed
+XY-Z	XY-head Z-bed
+XYZ-head	XYZ-head
+XYZ-bed	XYZ-bed
+Angular	Angular
